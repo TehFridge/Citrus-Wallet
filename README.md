@@ -19,4 +19,6 @@
     - Copyright © Robin Stuart and contributors
   - [LodePNG](https://github.com/lvandeve/lodepng) (MIT license)  
     - Copyright © Lode Vandevenne
+  - [gifdec](https://github.com/lecram/gifdec) (Public Domain)
+    - Copyright © Marcel Rodrigues
 
