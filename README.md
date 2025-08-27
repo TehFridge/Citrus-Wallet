@@ -9,12 +9,14 @@
 
 
 # Credits
-### "Artworks on the App's Splash Screen": [Darksona](https://www.twitch.tv/darksona_), [Sansy](https://www.instagram.com/fedora_maniac/)
 
-### BGM: CASIOPEA + Toshinobu Kubota - Ryu-sei No Saddle 
+- **Artworks on the App's Splash Screen**: [Darksona](https://www.twitch.tv/darksona_), [Sansy](https://www.instagram.com/fedora_maniac/)
 
-### This app uses the ZINT barcode library (BSD license)
+- **BGM**: CASIOPEA + Toshinobu Kubota - Ryu-sei No Saddle
 
-### Original library: https://github.com/zint/zint
+- **Libraries used**:
+  - [ZINT](https://github.com/zint/zint) (BSD license)  
+    - Copyright © Robin Stuart and contributors
+  - [LodePNG](https://github.com/lvandeve/lodepng) (MIT license)  
+    - Copyright © Lode Vandevenne
 
-### Copyright (c) Robin Stuart and contributors.
